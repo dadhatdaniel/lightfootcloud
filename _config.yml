@@ -5,10 +5,10 @@ description: "Lightfoot Cloud" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://lightfoot.cloud" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: dadhatdaniel
+github_username: dadhatdaniel
 
 # Build settings
 markdown: kramdown
-gameserver1: "Grand Theft Auto"
+
 
